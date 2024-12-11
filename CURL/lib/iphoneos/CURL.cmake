@@ -1,1 +1,0 @@
-set(PACKAGE_LIBRARY libcurl)
